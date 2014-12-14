@@ -1,0 +1,48 @@
+﻿body {
+    margin:0;
+    padding:0;
+    
+}
+.lbl
+{
+    font-family:'B Yekan';
+    font-size:7pt;
+    direction:rtl;
+    margin:0;
+    padding:0;
+    margin-right:10px;
+
+}
+.lblen
+{
+    font-family:'Comic Sans MS';
+    font-size:8pt;
+    direction:ltr;
+      margin:0;
+    padding:0;
+    margin-right:10px;
+
+}
+.tdheaderddd
+{
+     font-family:'B Yekan';
+    font-size:8pt;
+    direction:rtl;
+    background-color:black;
+    color:white;
+    border:1px solid white;
+    padding-left:10px;
+     padding-right:10px;
+     height:10px;
+    
+}
+.tdvalue
+{
+     font-family:'B Yekan';
+    font-size:8pt;
+    direction:rtl;
+    background-color:black;
+    color:white;
+    border:1px solid white;
+  
+}
